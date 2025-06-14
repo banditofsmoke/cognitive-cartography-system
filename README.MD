@@ -1,7 +1,10 @@
-This is merely an idea I am exploring. 
+This is merely an idea I am exploring. I AM AN EX ENGLISH TEACHER - SO PLEASE, THIS IS MERELY A PERSONAL LEARNING PROJECT.
 
 cognitive-cartography-system-idea
 Brain-Inspired LLM Activation Visualization
+
+![Description](./public/image1.png)
+![Description](./public/image2.png)
 
 Proposed System Architecture I am exploring 
 
